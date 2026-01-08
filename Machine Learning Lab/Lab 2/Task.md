@@ -1,6 +1,6 @@
 ## The work we had to do in ML-Lab 2 
  
- -> For the provided dataset we learned to 
+ ##  For the provided dataset we learned to 
        - Import the datset after downloading from Kaggle.
        - Read the dataset.
        - Preprocessing the data.
